@@ -1,0 +1,154 @@
+---
+object: card
+id: 8b4f81e2-916f-4af4-9e63-f4469e953122
+oracle_id: 1a6c2152-71ca-46be-ab83-c84633442257
+multiverse_ids: []
+tcgplayer_id: 118787
+name: Elemental
+lang: en
+released_at: '2016-06-10'
+uri: https://api.scryfall.com/cards/8b4f81e2-916f-4af4-9e63-f4469e953122
+scryfall_uri: https://scryfall.com/card/tema/9/elemental?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/b/8b4f81e2-916f-4af4-9e63-f4469e953122.jpg?1562702183
+  normal: https://cards.scryfall.io/normal/front/8/b/8b4f81e2-916f-4af4-9e63-f4469e953122.jpg?1562702183
+  large: https://cards.scryfall.io/large/front/8/b/8b4f81e2-916f-4af4-9e63-f4469e953122.jpg?1562702183
+  png: https://cards.scryfall.io/png/front/8/b/8b4f81e2-916f-4af4-9e63-f4469e953122.png?1562702183
+  art_crop: https://cards.scryfall.io/art_crop/front/8/b/8b4f81e2-916f-4af4-9e63-f4469e953122.jpg?1562702183
+  border_crop: https://cards.scryfall.io/border_crop/front/8/b/8b4f81e2-916f-4af4-9e63-f4469e953122.jpg?1562702183
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Elemental
+oracle_text: ''
+power: '1'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+all_parts:
+- object: related_card
+  id: dd232703-2230-4182-abd5-54074320f559
+  component: combo_piece
+  name: Seasoned Pyromancer
+  type_line: Creature — Human Shaman
+  uri: https://api.scryfall.com/cards/dd232703-2230-4182-abd5-54074320f559
+- object: related_card
+  id: 8b4f81e2-916f-4af4-9e63-f4469e953122
+  component: token
+  name: Elemental
+  type_line: Token Creature — Elemental
+  uri: https://api.scryfall.com/cards/8b4f81e2-916f-4af4-9e63-f4469e953122
+- object: related_card
+  id: dccbe031-1547-4fa5-ba9a-caa1b1f5eb5d
+  component: combo_piece
+  name: Scampering Scorcher
+  type_line: Creature — Elemental
+  uri: https://api.scryfall.com/cards/dccbe031-1547-4fa5-ba9a-caa1b1f5eb5d
+- object: related_card
+  id: 74bd3e04-2cc6-4538-b0e4-11a3653f8331
+  component: combo_piece
+  name: Young Pyromancer
+  type_line: Creature — Human Shaman
+  uri: https://api.scryfall.com/cards/74bd3e04-2cc6-4538-b0e4-11a3653f8331
+- object: related_card
+  id: c26f5f1e-bc1b-4efb-85d0-f62e08ebba1b
+  component: combo_piece
+  name: Chandra, Acolyte of Flame
+  type_line: Legendary Planeswalker — Chandra
+  uri: https://api.scryfall.com/cards/c26f5f1e-bc1b-4efb-85d0-f62e08ebba1b
+- object: related_card
+  id: 32067e8a-4d68-494c-95fa-6e8172496f0d
+  component: combo_piece
+  name: Tilonalli's Summoner
+  type_line: Creature — Human Shaman
+  uri: https://api.scryfall.com/cards/32067e8a-4d68-494c-95fa-6e8172496f0d
+- object: related_card
+  id: fd7ea3f3-900e-4dc5-ad83-1d5c5320d031
+  component: combo_piece
+  name: Molten Birth
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/fd7ea3f3-900e-4dc5-ad83-1d5c5320d031
+- object: related_card
+  id: be2f4165-f87f-454b-b955-e4477c864e95
+  component: combo_piece
+  name: Mask of Immolation
+  type_line: Artifact — Equipment
+  uri: https://api.scryfall.com/cards/be2f4165-f87f-454b-b955-e4477c864e95
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: f3d04563-054b-45b3-aec4-9ccc9acaf15d
+set: tema
+set_name: Eternal Masters Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/f3d04563-054b-45b3-aec4-9ccc9acaf15d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atema&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tema?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8b4f81e2-916f-4af4-9e63-f4469e953122/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1a6c2152-71ca-46be-ab83-c84633442257&unique=prints
+collector_number: '9'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Winona Nelson
+artist_ids:
+- e45fe8d3-75d6-42c9-a2df-e945ad81ea27
+illustration_id: b72510b2-4740-465b-8b71-58cea9d54eff
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.61'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Elemental
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/118787?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Elemental&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Elemental&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

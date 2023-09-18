@@ -1,0 +1,16 @@
+---
+object: set
+id: f3d04563-054b-45b3-aec4-9ccc9acaf15d
+code: tema
+name: Eternal Masters Tokens
+uri: https://api.scryfall.com/sets/f3d04563-054b-45b3-aec4-9ccc9acaf15d
+scryfall_uri: https://scryfall.com/sets/tema
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atema&unique=prints
+released_at: '2016-06-10'
+set_type: token
+card_count: 16
+parent_set_code: ema
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ema.svg?1694404800
